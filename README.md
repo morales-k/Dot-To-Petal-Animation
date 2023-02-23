@@ -1,0 +1,1 @@
+An rotating animation that changes between four dots and a petal like appearance. Built using HTML and CSS.
